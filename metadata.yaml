@@ -9,6 +9,8 @@ covers:
 - cover_type: generated
   image_path: cover.png
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/19038#English-Walnuts--13-What-You-Need-to-Know-about-Planting-Cultivating-and-Harvesting-This-Most_
 gutenberg_issued: '2006-08-13'
 gutenberg_type: Text
 identifiers:
